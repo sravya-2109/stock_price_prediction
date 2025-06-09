@@ -1,3 +1,4 @@
+python-3.10
 streamlit
 yfinance
 pandas
@@ -5,5 +6,5 @@ plotly
 matplotlib
 scikit-learn
 numpy
-tensorflow
+tensorflow==2.15.0 
 ta
