@@ -5,5 +5,5 @@ plotly
 matplotlib
 scikit-learn
 numpy
-tensorflow
+tensorflow==2.12.0
 ta
